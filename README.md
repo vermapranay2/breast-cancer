@@ -1,0 +1,1 @@
+Classifies breast cancer into one of 2 possible classes: benign or malignant.Uses k nearest neighbours as classification model.The breast cancer databases was obtained from the University of Wisconsin Hospitals, Madison from Dr. William H. Wolberg.
